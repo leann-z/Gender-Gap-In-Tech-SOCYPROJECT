@@ -1,25 +1,27 @@
 const pages = [
     `> Page 1: Introduction, The Sociological Imagination <br><br>
-  After peaking in the mid-1980s, the percentage of women earning computer science degrees suffered a steep decline, as seen in Figure 1 (Sax et al. 2016). By the late 1990s, women made up less than 30% of CS graduates. This shift laid the foundation for the still-present gender gap in the tech industry. Even though the gap has improved in recent years, women remain underrepresented in tech and leadership roles. To understand why, we must look at how social structures, norms, and institutions shaped the tech world beginning in the 1980s. 
-<br><br>The sociological imagination, as coined by C. Wright Mills, encourages us to see the connection between our own experiences and broader societal problems (Mills 1959). For women in tech, being the only woman in a room may seem like an isolated obstacle that can be laughed at. However, it is tied to decades of structural inequalities shaped by history, culture, and social institutions. Using sociological concepts like gendered socialization, conflict theory, and stratification, we can examine how historical inequalities still affect tech today.
+  After peaking in the mid-1980s, the percentage of women earning computer science degrees suffered a steep decline, as seen in Figure 1 (Sax et al. 2016). By the late 1990s, women made up less than 30% of CS graduates. This shift has built the foundation for the still-present gender gap in the tech industry. Even though the gap has improved in recent years, women remain underrepresented in the tech industry. To help us understand why, we will analyze how social structures, norms, and institutions shaped the tech world beginning after the 1980s. 
+
+<br><br>The sociological imagination encourages us to connect our own experiences to broader societal problems (Mills 1959). For women in tech, being the only woman in a room may seem like an isolated obstacle that can be laughed at. However, it is tied to decades of structural inequalities shaped by history, culture, and social institutions. Using sociological concepts like gendered socialization, conflict theory, and stratification, we will examine how historical inequalities still affect tech today.
 `
   ,
   
     `> Page 2: Gendered Socialization of the Computer <br><br>
-  Sociological research shows that from a young age, girls were given less exposure to computers than boys. In Unlocking the Clubhouse, Margolis and Fisher found that boys were more likely to be introduced to computers by their fathers, while girls were left out of these early experiences (Margolis and Fisher 2002). This led boys to develop confidence in technical skills before college, while girls were already less familiar with technology. 
+  Research shows that from a young age, girls were, on average, given less exposure to technology than boys. In Unlocking the Clubhouse, Margolis and Fisher found that boys were more likely to be introduced to computers by their fathers, while girls were left out of these early experiences (Margolis and Fisher 2002). This led to boys developing confidence in technical skills before college, while girls were already less familiar with technology as a whole. 
 
-<br><br>Media and pop culture in the 90s and 2000s also reinforced computing as male territory. The “computer nerd” stereotype arose, which is socially awkward, obsessive, and male. Research found that these “geeky” stereotypes have lowered women’s interest in computer science since it indirectly signals who belongs in tech (Cheryan et al. 2013). 
+<br><br>Media and pop culture in the 90s and 2000s also reinforced tech as male territory. The “computer nerd” stereotype began to make a wave, which includes being socially awkward, obsessive, and male. Research found that these “geeky” stereotypes have lowered women’s interest in computer science since it indirectly signals who belongs in tech (Cheryan et al. 2013). 
 
-<br><br>This socialization, reinforced through toys and cultural messaging, shaped educational and career choices. When tech was marketed and portrayed as a male domain, it’s no surprise that women felt excluded long before they reached the job market.
+<br><br>This socialization, reinforced through parenting and cultural messaging, shaped educational and career choices. When tech was marketed and portrayed as a male domain, it’s no surprise that women felt excluded long before they even reached the job market.
+
 `,
   
     `> Page 3: A conflict Theory Perspective<br><br>
-  It’s useful to look at this gender gap from a conflict theory perspective. Conflict theory is the idea that society is constantly undergoing change as a result of competition over scarce resources (Conley 2021). The tech industry became a space where dominant groups, which in this case were men, secured power and opportunity at the expense of others. Control over funding, networks, and hiring practices meant that exclusion was purposeful since it maintained a profitable status quo.
+  It’s useful to look at this gender gap from a conflict theory perspective. Conflict theory is the idea that society is constantly undergoing change as a result of competition over scarce resources (Conley 2021). The tech industry became a space where dominant groups, which in this case were the men, secured power and opportunity at the expense of women. They had more control over funding, networks, and hiring practices which meant that exclusion was purposeful.
 
 `,
   
     `> Page 4: What About Stratification? <br><br>
-    Stratification refers to the structured inequalities built into social systems (Massey 2007). In tech, gender stratification that rose in computer science education during the 1980s–2000s extended into the workplace. Women in the industry often dealt with obstacles such as limited advancement, exclusionary practices, and a culture shaped by male norms. <br><br> One well known example is that in earlier decades, managers resisted trusting women with critical programming tasks. As a result, many women in tech felt like outsiders who constantly had to prove themselves. These conditions built a shaky foundation for women in tech: By the early 2000s, many women in technical careers were leaving mid-career. The gender gap was an issue dealt with by newcomers and seasoned engineers, showing how it was being deeply shaped by structural and stratified workplace systems upheld by men.
+    Stratification refers to the structured inequalities built into social systems (Massey 2007). In tech, gender stratification that picked up pace in computer science education during the 1980s-2000s extended into the workplace. Women in the industry often dealt with obstacles such as a difficulty in career advancement, exclusionary practices, and a culture already shaped by male norms. One well known example is that in earlier decades, managers resisted trusting women with programming tasks deemed critical. As a result, many women in tech felt like outsiders who constantly had to prove themselves to their male co-workers. These conditions built a shaky foundation for women in tech. By the early 2000s, many women in technical careers were leaving mid-career. The gender gap was an issue dealt with by newcomers and seasoned engineers, showing how it was being deeply shaped by structural and stratified workplace systems upheld by men.
 
 `,
   
@@ -33,6 +35,7 @@ Mills, C. W. 1959. The Sociological Imagination. Oxford University Press, London
 <br><br>
 `
   ];
+  
   
 
   const images = [
