@@ -1,0 +1,121 @@
+body {
+    margin: 0;
+    background-color: #000;
+    color: #33ff33;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  .terminal {
+    max-width: 850px;
+    margin: 40px auto;
+    border: 2px solid #33ff33;
+    background-color: #111;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #33ff33;
+  }
+  
+  .terminal-header {
+    background-color: #222;
+    display: flex;
+    align-items: center;
+    padding: 8px;
+    border-bottom: 1px solid #33ff33;
+  }
+  
+  .dot {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    margin-right: 5px;
+  }
+  
+  .red { background-color: #ff5f56; }
+  .yellow { background-color: #ffbd2e; }
+  .green { background-color: #27c93f; }
+  
+  .terminal-title {
+    margin-left: auto;
+    color: #aaa;
+    font-size: 0.9rem;
+  }
+  
+  .terminal-body {
+    padding: 20px;
+    min-height: 400px;
+  }
+  
+  .landing h1 {
+    font-size: 1.8rem;
+    color: #33ff33;
+    margin-bottom: 5px;
+  }
+  
+  .subtitle, .author, .course {
+    margin: 0;
+    margin-bottom: 10px;
+    color: #77ff77;
+  }
+  
+  .directory {
+    margin-top: 20px;
+  }
+  
+  .directory ul {
+    list-style: none;
+    padding-left: 15px;
+  }
+  
+  .directory ul li a {
+    text-decoration: none;
+    color: #33ff33;
+    transition: color 0.2s;
+  }
+  
+  .directory ul li a:hover {
+    color: #00ffcc;
+  }
+  
+  .navigation, .back-button {
+    margin-top: 20px;
+    text-align: right;
+  }
+  
+  button {
+    background-color: #222;
+    border: 1px solid #33ff33;
+    color: #33ff33;
+    padding: 6px 12px;
+    margin: 5px;
+    cursor: pointer;
+    font-family: inherit;
+  }
+  
+  button:hover {
+    background-color: #33ff33;
+    color: #111;
+  }
+  
+  .image-tab {
+    margin-top: 20px;
+    border-top: 1px dashed #33ff33;
+    padding-top: 10px;
+    font-style: italic;
+    color: #88ff88;
+    text-align: center; 
+  }
+
+  .page-image {
+    max-width: 60%;
+    border: 1px solid #33ff33;
+    margin-top: 10px;
+    border-radius: 3px;
+  }
+  .image-caption {
+    color: #88ff88;
+    font-size: 0.85rem;
+    margin-top: 6px;
+    font-style: italic;
+    padding-left: 4px;
+    text-align: center;
+  }
+    
